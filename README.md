@@ -19,7 +19,3 @@ Repository to kick start your journey with GitHub Actions
 In conclusion, Jenkins is better suited for complex and large-scale automation tasks, while GitHub Actions is a more cost-effective and user-friendly solution for simple to moderate automation needs.
 
 
-=======
-# Git-Actions
-Here I try to implement the working of git actions and their  usability 
->>>>>>> 2b47c215742f83ad52fe8e57d64ef512d6aee958
